@@ -1,0 +1,8 @@
+.idea/
+node_modules/
+coverage/
+reports/
+test/
+debug.json
+*.log
+report.xml
