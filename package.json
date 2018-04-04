@@ -1,6 +1,6 @@
 {
   "name": "jest-jenkins-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test reporter of jenkins for Jest.",
   "main": "index.js",
   "author": "pilipa-cn oyhanyu",
@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/pilipa-cn/jest-jenkins-reporter",
   "scripts": {
-      "test": "jest -u --color"
+    "test": "jest -u --color"
   },
   "license": "MIT",
   "dependencies": {
@@ -30,6 +30,5 @@
     "reportPath": "reports",
     "reportFile": "test-report.xml",
     "indent": 4
-  },
-  "license": "MIT"
+  }
 }
