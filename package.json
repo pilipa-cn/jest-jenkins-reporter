@@ -9,6 +9,11 @@
     "jenkins",
     "reporter"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:pilipa-cn/jest-jenkins-reporter.git"
+  },
+  "homepage": "https://github.com/pilipa-cn/jest-jenkins-reporter",
   "scripts": {
       "test": "jest -u --color"
   },
@@ -25,5 +30,6 @@
     "reportPath": "reports",
     "reportFile": "test-report.xml",
     "indent": 4
-  }
+  },
+  "license": "MIT"
 }
