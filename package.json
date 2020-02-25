@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "jest": "^22.4.3",
+    "jest": "^25.1.0",
     "xml": "^1.0.1"
   },
   "jest": {
