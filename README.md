@@ -1,4 +1,4 @@
-> This project is out of maintenance. We're looking for new maintainer! If someone is interested in it, free to fork it then open issue to request the ownership.
+> This project is out of maintenance. The future developement and maintenance will be continuted in [Saeger's repo](https://github.com/Saeger/jest-jenkins-reporter).
 
 # jest-jenkins-reporter
 
